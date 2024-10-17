@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MultipleFormsTutorial8
+namespace CS2S564_Tutorial4_MultipleForms
 {
     public partial class frm2 : Form
     {

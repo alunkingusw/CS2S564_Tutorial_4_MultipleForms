@@ -1,4 +1,4 @@
-namespace MultipleFormsTutorial8
+namespace CS2S564_Tutorial4_MultipleForms
 {
     public partial class frmMain : Form
     {
